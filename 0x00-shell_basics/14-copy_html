@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -uv -R  ./*.html ../*.html 
+cp -uv  ./*.html ../*.html 
