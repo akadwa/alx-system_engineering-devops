@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -palm --group-directories-first
+ls -map | sort -d
